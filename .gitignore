@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+#Visual Studio fliles //Это вообще коммент
+*.user
+*.opensdf
+*.sdf
+*.suo
+
 # Compiled Object files
 *.slo
 *.lo
